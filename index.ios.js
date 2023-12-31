@@ -10,7 +10,7 @@ import {
   StyleSheet,
   Text,
   View
-} from 'react-native';
+} from 'react-native';Component } from 'react';
 
 import AirBnb from './app/container/indexios';
 
